@@ -1,0 +1,72 @@
+{
+  "buildFiles": [
+    "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk",
+    "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "buildTargetsCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "theora-release-armeabi-v7a": {
+      "artifactName": "theora",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libtheora.a",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libtheora.a"
+    },
+    "ogg-release-armeabi-v7a": {
+      "artifactName": "ogg",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libogg.a",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libogg.a"
+    },
+    "freetype-release-armeabi-v7a": {
+      "artifactName": "freetype",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libfreetype.a",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libfreetype.a"
+    },
+    "SDL2-release-armeabi-v7a": {
+      "artifactName": "SDL2",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libSDL2.a",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libSDL2.a"
+    },
+    "hidapi-release-armeabi-v7a": {
+      "artifactName": "hidapi",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libhidapi.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libhidapi.so"
+    },
+    "love-release-armeabi-v7a": {
+      "artifactName": "love",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/liblove.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/liblove.so"
+    },
+    "openal-release-armeabi-v7a": {
+      "artifactName": "openal",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libopenal.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libopenal.so"
+    },
+    "modplug-release-armeabi-v7a": {
+      "artifactName": "modplug",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libmodplug.a",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libmodplug.a"
+    },
+    "vorbis-release-armeabi-v7a": {
+      "artifactName": "vorbis",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libvorbis.a",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libvorbis.a"
+    },
+    "mpg123-release-armeabi-v7a": {
+      "artifactName": "mpg123",
+      "buildCommand": "/home/azarias/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Android.mk NDK_APPLICATION_MK\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/src/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/lib -j4 /home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libmpg123.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/azarias/Documents/Scolaire/Programmation/Android/love-android-sdl2/love/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libmpg123.so"
+    }
+  }
+}
