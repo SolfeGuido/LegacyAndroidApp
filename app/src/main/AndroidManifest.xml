@@ -13,13 +13,13 @@
   <application
       android:allowBackup="true"
       android:icon="@drawable/love"
-      android:label="Solfège"
+      android:label="SolfeGuido"
       android:usesCleartextTraffic="true" >
       <service android:name="org.love2d.android.DownloadService" />
       <activity
         android:name="org.love2d.android.GameActivity"
         android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|keyboard|keyboardHidden|navigation"
-        android:label="LÖVE for Android"
+        android:label="SolfeGuido"
         android:launchMode="singleTask"
         android:screenOrientation="landscape"
         android:resizeableActivity="false"
@@ -44,7 +44,7 @@
           <category android:name="android.intent.category.BROWSABLE" />
           <data android:scheme="content" />
           <data android:host="*" />
-          <data android:mimeType="application/x-love-game" />
+          <data android:mimeType="application/x-love-game" />me
         </intent-filter>
         <intent-filter>
           <action android:name="android.intent.action.VIEW" />
