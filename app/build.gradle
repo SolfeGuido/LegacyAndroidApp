@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion "28.0.3"
     defaultConfig {
-        applicationId "org.love2d.android"
+        applicationId "come.solfeguido"
         versionCode 29
         versionName "11.3a"
         minSdkVersion 14
