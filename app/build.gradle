@@ -4,9 +4,9 @@ android {
     compileSdkVersion 28
     buildToolsVersion "28.0.3"
     defaultConfig {
-        applicationId "come.solfeguido"
+        applicationId "com.solfeguido"
         versionCode 29
-        versionName "11.3a"
+        versionName "1.2"
         minSdkVersion 14
         targetSdkVersion 28
     }
