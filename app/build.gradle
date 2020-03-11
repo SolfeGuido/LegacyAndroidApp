@@ -5,7 +5,7 @@ android {
     buildToolsVersion "28.0.3"
     defaultConfig {
         applicationId "io.github.solfeguido"
-        versionCode 34
+        versionCode 35
         versionName "1.5"
         minSdkVersion 14
         targetSdkVersion 29
